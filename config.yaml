@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    areeb:
+      name: "Mohammad Areeb Ahmad"
+      password: "HASH_IT"
+    ironman:
+      name: "Tony Stark"
+      password: "HASH_IT"
+
+cookie:
+  key: "super-key"
+  expiry_days: 30
+
+preauthorized:
+  emails:
+    - m.areeb.ahmad@gmail.com
+    - tony@avengers.com
